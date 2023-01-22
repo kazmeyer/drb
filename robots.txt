@@ -1,1 +1,1 @@
-Sitemap: https://kazmeyer.github.io/drb/sitemap.xml
+Sitemap: http://localhost:4000/drb/sitemap.xml
