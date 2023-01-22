@@ -2664,9 +2664,6 @@ var bootstrap = (function () {
 	}
 
 	function init() {
-	  
-	  var date = new Date().getFullYear();
-	  document.getElementById("current-year").innerHTML = date;
 
 	  if (document.querySelector('.body-home')) {
 	    home();
